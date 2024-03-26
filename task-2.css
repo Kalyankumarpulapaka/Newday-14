@@ -1,0 +1,119 @@
+.box{
+  
+   border: 1px solid black;
+}
+
+.hc{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+   
+    
+  
+}
+.logo{
+    height: 40px; width: 90px;
+}
+.head1{
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+}
+   
+    
+
+.display-1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    text-align: center;
+   
+}
+.head3{
+    margin-top: -1.5%;
+    object-fit: contain;
+}
+.head31{
+    margin-top: -2.5%;
+    
+}
+.size{
+    font-size: x-small;
+    font-family: 'Times New Roman', Times, serif;
+}
+.tit{
+    display: inline;
+    background-color: brown;
+   font-size: small;
+   margin-left: 45%;
+   
+}
+.h3s{
+    font-size:340%;
+    font-weight: 700;
+    padding: 0.5% 1% 0% 1%;
+}
+.col1{
+    border-bottom: 1px dotted;
+    border-right: 1px dotted;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+    
+}
+.col2{
+    border-bottom: 1px dotted;
+    border-right: 1px dotted;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+    
+}
+.col-md-3{
+padding: 0%;
+}
+.con1{
+    height: 600px;
+    
+}
+p{
+    padding: 1% 0% 1% 0%;
+    margin: 1% 0% 1% 0%;
+}
+.size1{
+    font-size: small;
+    margin: 0%;
+}
+.col-md-5{
+    border-left: 1px dotted;
+    border-right:1px dotted;
+    border-bottom:1px dotted;
+ 
+}
+.one{
+ font-size: x-small;
+ width: 100px;
+ border-right: 1px dotted;
+ padding: 4px;
+}
+.picmain{
+    display: flex;
+}
+.two{
+    font-size: x-small;
+    width: 200px;
+    border-right: 1px dotted;
+    padding: 4px;
+}
+.three{
+    font-size: x-small;
+ width: 150px;
+text-align: left;
+ padding: 6px;
+
+}
+.rightcol{
+    font-size: small;
+ width: 150px;
+ border-right: 1px dotted;
+ border-bottom:1px dotted;
+ padding: 3px;
+
+}
